@@ -41,15 +41,15 @@ The get GetKeyUp checks if in this frame the supplied key has changed state from
 key code of the given key is supplied in the class [KeyCode](https://docs.unity3d.com/ScriptReference/KeyCode.html)
 
 
-##Player movement \
+## Player movement \
 **Translate** \
 [check out documentation](https://docs.unity3d.com/ScriptReference/Transform.Translate.html)
 
-**Rotate**
+**Rotate** \
 Well you can use Quaternion for this but I personally find that method very messy.\
-So I use euler-Angles instead \
+So I use euler-Angles instead
 [check example](./euler-angle-example.md)
 
-**Triggers**
+**Triggers** \
 we can use triggers for many things. We used it to know what we are colliding with if it is a powerup or an enemy
 [different trigger events](./triggers.md)
