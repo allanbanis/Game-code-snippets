@@ -10,3 +10,4 @@ if(Input.GetKeyDown(KeyCode.LeftArrow)){
           );
         }
   ```
+similarly you can use -20 to rotate in the opposite direction
