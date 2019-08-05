@@ -52,3 +52,4 @@ So I use euler-Angles instead \
 
 **Triggers**
 we can use triggers for many things. We used it to know what we are colliding with if it is a powerup or an enemy
+[different trigger events](./triggers.md)
